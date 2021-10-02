@@ -26,7 +26,7 @@ int main()
     printf("\n Your array in asc. order is : ");
     for(i=0;i<n;i++)
     {
-        printf("%d ",a[i]);
+        printf("%d",a[i]);
     }
     printf("\n");
     return 0;
